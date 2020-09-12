@@ -38,7 +38,7 @@
     "ghost-theme"
   ],
   "devDependencies": {
-    "@tryghost/release-utils": "0.3.1",
+    "@tryghost/release-utils": "0.6.6",
     "autoprefixer": "9.5.0",
     "beeper": "1.1.1",
     "cssnano": "4.1.10",
